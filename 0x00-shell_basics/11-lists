@@ -1,7 +1,2 @@
 #!/bin/bash
-
-
-#echo "<pre>"
-ls -i .* *
-
-#echo "</pre>"
+ls -la . .. /boot
