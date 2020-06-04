@@ -1,7 +1,2 @@
 #!/bin/bash
-
-
-#echo "<pre>"
 mkdir /tmp/holberton
-
-#echo "</pre>"
