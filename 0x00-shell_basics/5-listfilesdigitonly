@@ -1,8 +1,2 @@
 #!/bin/bash
-
-
-#echo "<pre>"
-ls -l
-ls -n .*
-
-#echo "</pre>"
+ls -lna
