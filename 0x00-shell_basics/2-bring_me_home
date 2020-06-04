@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+#echo "<pre>"
+  pwd
+
+      cd ~2-bring_me_home
+
+         pwd
+
+#echo "</pre>"

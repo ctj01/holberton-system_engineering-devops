@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+#echo "<pre>"
+mv betty /tmp/holberton
+
+#echo "</pre>"

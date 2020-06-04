@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+#echo "<pre>"
+cd ..
+
+pwd
+
+#echo "</pre>"
