@@ -1,7 +1,2 @@
 #!/bin/bash
-
-
-#echo "<pre>"
-rm -r  /tmp/holberton
-
-#echo "</pre>"
+rm -r /tmp/holberton
