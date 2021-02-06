@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# displays Holberton School 10 times.
+
+iterator=0
+while [ $iterator -lt 11 ]
+do
+    if [ $iterator = 9 ]
+    then
+        echo "Hi"
+    else
+        echo "Holberton School"
+    fi
+    ((iterator+=1))
+done
